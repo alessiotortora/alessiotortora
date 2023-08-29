@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Alessio's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessiotortora)](https://github.com/alessiotortora/github-readme-stats)
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,css,firebase,github,html,js,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,vscode&perline=14" />
