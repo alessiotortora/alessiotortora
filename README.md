@@ -11,6 +11,6 @@
 My Skillset
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css, tailwind,js, react, nextjs, redux,nodejs, firebase,github,materialui,postman,py, django vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,redux,nodejs,firebase,github,materialui,postman,py,django,vscode&perline=14" />
   </a>
 </p>
