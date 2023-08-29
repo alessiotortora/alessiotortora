@@ -1,24 +1,16 @@
 ### Hi there 👋
 
-<!--
-**alessiotortora/alessiotortora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as a volunteer for komunIKON
+- 🌱 I’m currently learning node.js 
+- 👯 I’m looking to collaborate on 
+- 💬 Ask me about anything
+- ⚡ Fun fact: I was a physical therapist before i became a software engineer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-[![Alessio's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessiotortora)](https://github.com/alessiotortora/github-readme-stats)
-
+My Skillset
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,firebase,github,html,js,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css, tailwind,js, react, nextjs, redux,nodejs, firebase,github,materialui,postman,py, django vscode&perline=14" />
   </a>
 </p>
