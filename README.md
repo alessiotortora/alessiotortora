@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a volunteer for komunIKON
-- 🌱 I’m currently learning node.js 
-- 👯 I’m looking to collaborate on 
+- 🌱 I’m currently learning mongoDB 
+- 👯 I’m looking to collaborate 
 - 💬 Ask me about anything
 - ⚡ Fun fact: I was a physical therapist before i became a software engineer
 
